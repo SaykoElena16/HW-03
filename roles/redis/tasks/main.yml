@@ -1,0 +1,3 @@
+- name: Install Redis
+  debug:
+    msg: "Installing Redis (simulation)"

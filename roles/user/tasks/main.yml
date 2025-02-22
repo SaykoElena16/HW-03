@@ -1,0 +1,3 @@
+- name: Create a user
+  debug:
+    msg: "Creating a user (simulation)"

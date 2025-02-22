@@ -12,4 +12,5 @@ ansible.cfg
 *.key
 id_rsa
 id_rsa.pub
+roles/user/files/*.pub
 
